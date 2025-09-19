@@ -1,23 +1,57 @@
-# AI21 Maestro + Bright Data
+<div align="center">
 
-A beautiful web interface for building AI agents with web access through Bright Data tools. This project combines AI21's Maestro platform with Bright Data's web scraping capabilities to create powerful AI agents that can research and analyze real-time web data.
+# 🤖 AI21 Maestro + Bright Data Template
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Node.js 16+](https://img.shields.io/badge/node.js-16+-green.svg)](https://nodejs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HeroUI](https://img.shields.io/badge/HeroUI-3b82f6?style=flat&logo=react&logoColor=white)](https://heroui.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-<img width="1345" height="889" alt="2025-09-19_03h13_42" src="https://github.com/user-attachments/assets/296de2a5-53cb-450b-adf0-699668f4211b" />
+**🚀 A production-ready template for building AI agents with web access**
 
-FastAPI docs: 
+*Combine AI21's Maestro platform with Bright Data's web scraping capabilities to create powerful AI agents that can research and analyze real-time web data.*
 
-<img width="1483" height="860" alt="image" src="https://github.com/user-attachments/assets/ba04140f-0d37-4447-9362-ad8add3c94ad" />
+[Getting Started](#-quick-start) •
+[Demo](#-demo) •
+[Documentation](#-api-documentation) •
+[Contributing](#-contributing)
 
+</div>
 
-## Features
+---
 
-🤖 **AI Agent Dashboard** - Configure and run AI agents with different personalities and budgets  
-🌐 **Web Data Access** - Integration with Bright Data's free and pro web scraping tools  
-📊 **Real-time Results** - Watch your agents work and see results as they happen  
-📝 **Run History** - Track all your agent runs with detailed logs and results  
-🎨 **Beautiful UI** - Modern, responsive interface built with HeroUI components  
-⚡ **Fast API** - High-performance FastAPI backend with async support  
+## 📸 Demo
+
+### AI Agent Dashboard
+*Configure and run AI agents with different personalities and budgets*
+
+<img width="1345" alt="AI Agent Dashboard - Configure agents, view real-time results, and manage run history" src="https://github.com/user-attachments/assets/296de2a5-53cb-450b-adf0-699668f4211b" />
+
+### Interactive API Documentation 
+*Explore and test all endpoints with FastAPI's automatic documentation*
+
+<img width="1483" alt="FastAPI Interactive Documentation - Test API endpoints with automatic validation" src="https://github.com/user-attachments/assets/ba04140f-0d37-4447-9362-ad8add3c94ad" />
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 🤖 **AI Agent Dashboard** | Configure and run AI agents with different personalities and budgets |
+| 🌐 **Web Data Access** | Integration with Bright Data's free and pro web scraping tools |
+| 📊 **Real-time Results** | Watch your agents work and see results as they happen |
+| 📝 **Run History** | Track all your agent runs with detailed logs and results |
+| 🎨 **Beautiful UI** | Modern, responsive interface built with HeroUI components |
+| ⚡ **Fast API** | High-performance FastAPI backend with async support |
+| 🔒 **Production Ready** | Environment configuration, error handling, and security best practices |
+| 📚 **Auto Documentation** | Interactive API docs with FastAPI's automatic OpenAPI generation |
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -41,8 +75,11 @@ FastAPI docs:
 
 ## 📋 Table of Contents
 
-- [AI21 Maestro + Bright Data](#ai21-maestro--bright-data)
-  - [Features](#features)
+- [🤖 AI21 Maestro + Bright Data Template](#-ai21-maestro--bright-data-template)
+  - [📸 Demo](#-demo)
+    - [AI Agent Dashboard](#ai-agent-dashboard)
+    - [Interactive API Documentation](#interactive-api-documentation)
+  - [✨ Features](#-features)
   - [🛠️ Tech Stack](#️-tech-stack)
     - [Backend](#backend)
     - [Frontend](#frontend)
@@ -68,8 +105,8 @@ FastAPI docs:
     - [Development Process](#development-process)
     - [Pull Request Guidelines](#pull-request-guidelines)
   - [📄 License](#-license)
-  - [Support](#support)
-  - [Acknowledgments](#acknowledgments)
+  - [🙏 Acknowledgments](#-acknowledgments)
+  - [🔗 Useful Links](#-useful-links)
 
 ---
 
@@ -283,16 +320,40 @@ We love your input! We want to make contributing to this project as easy and tra
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
+```
+MIT License - feel free to use this template for your own projects!
+```
 
-- **Documentation**: Visit the [API docs](http://localhost:8000/docs) when running locally
-- **Issues**: Report bugs and request features via GitHub Issues
-- **AI21 Maestro**: [Official Documentation](https://docs.ai21.com/docs/maestro-overview)
-- **Bright Data**: [Platform Documentation](https://docs.brightdata.com/)
+---
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
-- [AI21 Labs](https://ai21.com/) for the Maestro platform
-- [Bright Data](https://brightdata.com/) for web data collection tools
-- [HeroUI](https://heroui.com/) for the beautiful component library
-- [FastAPI](https://fastapi.tiangolo.com/) for the amazing web framework
+Special thanks to the amazing teams and projects that make this template possible:
+
+- 🤖 [**AI21 Labs**](https://ai21.com/) - For the powerful Maestro platform
+- 🌐 [**Bright Data**](https://brightdata.com/) - For comprehensive web data collection tools
+- 🎨 [**HeroUI**](https://heroui.com/) - For the beautiful, accessible component library
+- ⚡ [**FastAPI**](https://fastapi.tiangolo.com/) - For the amazing, fast web framework
+- ⚛️ [**React Team**](https://reactjs.org/) - For the incredible frontend library
+- 🎯 [**Vite**](https://vitejs.dev/) - For the lightning-fast build tool
+
+---
+
+## 🔗 Useful Links
+
+- 📚 [AI21 Maestro Documentation](https://docs.ai21.com/docs/maestro-overview)
+- 🌐 [Bright Data Platform Documentation](https://docs.brightdata.com/)
+- 🎨 [HeroUI Component Library](https://heroui.com/docs/guide/introduction)
+- ⚡ [FastAPI Documentation](https://fastapi.tiangolo.com/)
+
+---
+
+<div align="center">
+
+**⭐ If this template helped you, please consider giving it a star!**
+
+[![GitHub stars](https://img.shields.io/github/stars/brightdata/ai21labs-brightdata-template.svg?style=social&label=Star)](https://github.com/brightdata/ai21labs-brightdata-template)
+
+Made with ❤️ by the Bright Data & AI21 Labs communities
+
+</div>
