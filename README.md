@@ -5,6 +5,11 @@ A beautiful web interface for building AI agents with web access through Bright 
 
 <img width="1345" height="889" alt="2025-09-19_03h13_42" src="https://github.com/user-attachments/assets/296de2a5-53cb-450b-adf0-699668f4211b" />
 
+FastAPI docs: 
+
+<img width="1483" height="860" alt="image" src="https://github.com/user-attachments/assets/ba04140f-0d37-4447-9362-ad8add3c94ad" />
+
+
 ## Features
 
 🤖 **AI Agent Dashboard** - Configure and run AI agents with different personalities and budgets  
