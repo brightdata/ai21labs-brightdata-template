@@ -1,6 +1,8 @@
 # AI21 Maestro + Bright Data
 
 A beautiful web interface for building AI agents with web access through Bright Data tools. This project combines AI21's Maestro platform with Bright Data's web scraping capabilities to create powerful AI agents that can research and analyze real-time web data.
+
+
 <img width="1345" height="889" alt="2025-09-19_03h13_42" src="https://github.com/user-attachments/assets/296de2a5-53cb-450b-adf0-699668f4211b" />
 
 ## Features
